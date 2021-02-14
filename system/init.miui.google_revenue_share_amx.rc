@@ -1,0 +1,4 @@
+# Use the default value for new product.
+on property:ro.miui.customized.region=lm_cr && property:ro.miui.customized_clientid=2
+    setprop ro.com.google.clientidbase.ms android-americamovil-{country}-revc
+    setprop ro.com.google.clientidbase.am android-americamovil-{country}
