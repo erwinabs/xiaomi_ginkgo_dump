@@ -1,0 +1,13 @@
+# ginkgo-user 9 PKQ1.190616.001 V11.0.9.0.PCOMIXM release-keys
+- manufacturer: xiaomi
+- platform: trinket
+- codename: ginkgo
+- flavor: ginkgo-user
+- release: 9
+- id: PKQ1.190616.001
+- incremental: V11.0.9.0.PCOMIXM
+- tags: release-keys
+- fingerprint: xiaomi/ginkgo/ginkgo:9/PKQ1.190616.001/V11.0.9.0.PCOMIXM:user/release-keys
+- brand: xiaomi
+- branch: ginkgo-user-9-PKQ1.190616.001-V11.0.9.0.PCOMIXM-release-keys
+- repo: xiaomi_ginkgo_dump
